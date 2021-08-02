@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 from AutoLog import AutoLogger
 from Lessons import lessons
 
